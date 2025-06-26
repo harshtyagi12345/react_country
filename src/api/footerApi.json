@@ -1,0 +1,18 @@
+
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Bengaluru"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "7900541516"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "tyagiharshit96@gmail.com"
+  }
+]
